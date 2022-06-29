@@ -11,10 +11,10 @@
 ### Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3Adavidsan+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adavidsan+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adavidsan+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adavidsan+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 <!--
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
  ## 🔥 Github Stats
 
 <p align="center">
-  <a href="https://github.com/davidsan/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Davidsan's streak" src="http://github-readme-streak-stats.herokuapp.com?user=davidsan&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D]"/>
+  <a href="https://github.com/davidtxosan/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Davidtxosan's streak" src="http://github-readme-streak-stats.herokuapp.com?user=davidtxosan&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D]"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
