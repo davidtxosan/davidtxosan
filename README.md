@@ -8,13 +8,19 @@
  <a href="https://www.linkedin.com/in/dsjaramillo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clararls" height="30" width="40" /></a>
 </p>
 
-### Programming languages
+### Programming languages and other tools
 
 <p>
-    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ac"><img alt="C" src="https://skillicons.dev/icons?i=c"logo=c3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++-E34F26.svg?logo=c++&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ac"><img alt="C" src="https://skillicons.dev/icons?i=c"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Acpp"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Apython"><img alt="Python" src="https://skillicons.dev/icons?i=py"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Amysql"><img alt="MYSQL" src="https://skillicons.dev/icons?i=mysql"></a>
+ <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Aarduino"><img alt="ARDUINO" src="https://skillicons.dev/icons?i=arduino"></a>
+ <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Araspberrypi"><img alt="raspberrypi" src="https://skillicons.dev/icons?i=raspberrypi"></a>
+ <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Avim"><img alt="vim" src="https://skillicons.dev/icons?i=vim"></a>
+ <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Avscode"><img alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
+ 
+ 
 </p>
 
 <!--
