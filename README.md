@@ -11,7 +11,7 @@
 ### Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-E34F26.svg?logo=c3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ac"><img alt="C" src="https://skillicons.dev/icons?i=c"logo=c3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++-E34F26.svg?logo=c++&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Adavidtxosan+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
